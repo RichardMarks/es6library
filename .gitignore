@@ -2,3 +2,5 @@ node_modules/
 npm*.log
 .DS_Store
 build/
+docs/
+lib/
